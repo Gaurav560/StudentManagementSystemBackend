@@ -12,7 +12,7 @@ This repository contains the backend code for a Student Management System, desig
 
 ### Prerequisites
 
-- Java JDK 11 or later
+- Java JDK 17 or later
 - Maven 3.6 or later
 - PostgreSQL
 
