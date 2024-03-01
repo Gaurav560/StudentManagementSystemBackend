@@ -17,7 +17,7 @@ public class Student {
     private String email;
     private String address;
     private String phoneNumber;
-    private String className; // 'class' is a reserved word, so we use 'className'
+    private String className;
     private String fathersName;
 
     // Constructors
