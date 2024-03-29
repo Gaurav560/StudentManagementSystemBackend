@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS Student (
-                                       id BIGINT AUTO_INCREMENT PRIMARY KEY,
+                                       id BIGSERIAL PRIMARY KEY,
                                        name VARCHAR(255),
     email VARCHAR(255),
     address VARCHAR(255),
